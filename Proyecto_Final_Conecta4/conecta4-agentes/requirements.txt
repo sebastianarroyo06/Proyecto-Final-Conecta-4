@@ -1,0 +1,8 @@
+# Librerías usadas por el proyecto (Python 3.9 o superior)
+numpy>=1.23        # Representación del tablero (matrices)
+pygame>=2.5        # Interfaz gráfica
+matplotlib>=3.6    # Gráficas y dibujo del tablero en el notebook
+pandas>=1.5        # Tablas de resultados
+seaborn>=0.12      # Gráficas del notebook
+notebook>=6.5      # Para abrir el notebook de demostración
+pytest>=7.0        # Pruebas automáticas (opcional)
